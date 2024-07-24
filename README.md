@@ -14,11 +14,12 @@ This project involved setting up a MongoDB database and using multiple Jupyter N
 2. **Install Dependencies:**
    ```sh
    pip install python pandas jsons pymongo jupyter
-   
-   **Install MongoDB Community Edition:**
+
+2. **Install MongoDB Dependencies:**
+   - MongoDB Community Edition:
     https://www.mongodb.com/docs/v6.0/administration/install-community/
-   
-   **Install MongoDB:**
+
+   - MongoDB:
    https://www.mongodb.com/docs/database-tools/installation/installation/
    
    
