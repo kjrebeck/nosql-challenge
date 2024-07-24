@@ -18,18 +18,17 @@ The project is divided into three main parts:
 - `NoSQL_analysis_starter.ipynb`: Contains the code for performing exploratory data analysis based on the assignments questions.
 
 ## Skills Utilized
-
-### MongoDB
-### Data Cleaning
-### Data Analysis
-### Data Visualization
+- MongoDB
+- Data Cleaning
+- Data Analysis
+- Data Visualization
 
 ### Python Libraries
-#### PyMongo
-#### Pandas
+- PyMongo
+- Pandas
 
 ### Data Formats
-#### JSON
-#### Jupyter Notebook
+- JSON
+- Jupyter Notebook
 
 ###   GNU GENERAL PUBLIC LICENSE
